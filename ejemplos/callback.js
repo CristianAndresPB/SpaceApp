@@ -33,7 +33,7 @@ setTimeout(() => uno (
             () => cuatro(
                 () => cinco(),)))), 3000);
 
-/*const nombre = function (){  //funcion anonima
+const nombre = function (){  //funcion anonima
     console.log("nombre")
 
 }
@@ -44,4 +44,4 @@ const persona = () => console.log("Lucas") // esto es una arrow functions
 
 persona();
 
-() => console.log()*/
+() => console.log()

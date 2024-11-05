@@ -1,4 +1,4 @@
- function cuatro () {
+function cuatro () {
     console.log("cuatro")
 }
 
@@ -7,7 +7,7 @@ function tres () {
     cuatro()
 }
 
-/*function dos () {
+function dos () {
     console.log("dos")
     tres()
 }
@@ -17,4 +17,4 @@ function uno () {
     dos()
 }
 
-uno()*/
+uno()
